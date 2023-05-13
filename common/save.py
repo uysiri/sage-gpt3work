@@ -1,7 +1,7 @@
 """
 Import as:
 
-import sorrentum_sandbox.common.save as sinsasav
+import common.save as sinsasav
 """
 
 import abc

@@ -1,7 +1,7 @@
 """
 Import as:
 
-import sorrentum_sandbox.common.download as sinsadow
+import common.download as dwd
 """
 
 import abc
