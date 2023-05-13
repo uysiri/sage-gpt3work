@@ -17,7 +17,7 @@ import os
 Load csv file and return embeddings.
 Use as:
 > embed_args.py \
-    csvfile colorguru \
+    colorguru \
     --filename 'colorguru_embeddings.json'\
     --client 'yourcolorguru'
 """
